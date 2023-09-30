@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/Binary Conversion/x64/Debug
+/x64/Debug
+/.vs/Binary Conversion
